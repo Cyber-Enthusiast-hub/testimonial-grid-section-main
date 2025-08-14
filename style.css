@@ -64,6 +64,11 @@ main {
       "three four four five";
     grid-auto-columns: 1fr;
   }
+
+  section {
+    padding: 1.25rem;
+    box-shadow: 15px 15px 15px rgb(197, 197, 197);
+  }
 }
 
 /* Section Cards */
